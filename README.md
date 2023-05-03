@@ -20,8 +20,13 @@ La sécurité a été géré partout pour tout fichier entrant et sortant de not
 Au cas où les liens utilisés ne seront pas valide(En cas d'utilisation),les liens par défauts seront utilisés par le système.
 
 ------------------                Jouer par défaut             ------------------------------------------------------------
-La touche DirectionHaut gère le saut et Celle DirectionBas gère l'accroupissement, p/P gère la 
+La touche Direction Haut gère le saut et Celle DirectionBas gère l'accroupissement, p/P gère la 
 pause et la reprise, G/g gère débuter clicable que lorsque un fichier valide est sélectionné.
 
 
 Le reste sera certainenement découvri dans la lecture du code.
+
+<img width="1436" alt="Capture d’écran 2023-05-03 à 19 29 05" src="https://user-images.githubusercontent.com/121299370/235996097-2ff90995-e408-4d5a-9efc-4b8f69d63fd4.png">
+<img width="1436" alt="Capture d’écran 2023-05-03 à 19 29 42" src="https://user-images.githubusercontent.com/121299370/235996331-d120c821-e768-495a-bbad-f5149f16e228.png">
+<img width="1436" alt="Capture d’écran 2023-05-03 à 19 30 15" src="https://user-images.githubusercontent.com/121299370/235996548-b819420e-f94f-4fbe-a74d-30d126ac23af.png">
+<img width="1436" alt="Capture d’écran 2023-05-03 à 19 30 35" src="https://user-images.githubusercontent.com/121299370/235996691-953538bd-c095-4bdb-86ec-83fa05d031c3.png">
