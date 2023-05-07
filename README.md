@@ -26,6 +26,7 @@ pause et la reprise, G/g gère débuter clicable que lorsque un fichier valide e
 
 Le reste sera certainenement découvri dans la lecture du code.
 
+<img width="1386" alt="Capture d’écran 2023-05-07 à 22 41 47" src="https://user-images.githubusercontent.com/121299370/236701647-b5cce54d-ca58-4373-8b4c-9817f16451d9.png">
 <img width="1436" alt="Capture d’écran 2023-05-03 à 19 29 05" src="https://user-images.githubusercontent.com/121299370/235996097-2ff90995-e408-4d5a-9efc-4b8f69d63fd4.png">
 <img width="1436" alt="Capture d’écran 2023-05-03 à 19 29 42" src="https://user-images.githubusercontent.com/121299370/235996331-d120c821-e768-495a-bbad-f5149f16e228.png">
 <img width="1436" alt="Capture d’écran 2023-05-03 à 19 30 15" src="https://user-images.githubusercontent.com/121299370/235996548-b819420e-f94f-4fbe-a74d-30d126ac23af.png">
